@@ -10,5 +10,9 @@ by **bron**.
 V1 was the first installment of the Cat Playground label and collective.
 
 ## External links
+ - [V4 Bandcamp](https://catplayground.bandcamp.com/)
+ - [V3 Archive Bandcamp](https://catplaygroundv3.bandcamp.com/)
+ - [V2 Archive Bandcamp](https://catplaygroundarchive.bandcamp.com/)
+ - [V1 Archive on IA](https://archive.org/details/catplayground)
  - [Discogs](https://www.discogs.com/label/2213647-cat-playground)
  - [RateYourMusic](https://rateyourmusic.com/label/cat_playground/)
