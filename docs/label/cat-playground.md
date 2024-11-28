@@ -5,7 +5,7 @@ run. The label was closed sometime around late 2023 with its last release being 
 by **bron**.
 
 ## Seasons
-This section of this article is incomplete and is a work in progress.
+*This section of this article is incomplete and is a work in progress.*
 ### V1
 V1 was the first installment of the Cat Playground label and collective.
 
