@@ -1,7 +1,7 @@
-## Artists
+# Artists
 Artists are sorted in alphabetical order.
 
-# 0-9
+## 0-9
 
 # A
 
