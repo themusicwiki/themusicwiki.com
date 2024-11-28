@@ -8,6 +8,7 @@ Labels are sorted in alphabetical order.
 ## B
 
 ## C
+ - [cat playground](/label/cat-playground)
 
 ## D
 
