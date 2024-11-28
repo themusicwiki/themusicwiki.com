@@ -4,5 +4,5 @@ It was established on May 7, 2024, with 3 different iterations and seasons that 
 run.
 
 ## Seasons
-# V1
+### V1
 V1 was the first installment of the Cat Playground label and collective.
