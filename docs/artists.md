@@ -22,7 +22,7 @@ Artists are sorted in alphabetical order.
 ## I
 
 ## J
- - [Jaiden Macintosh](jaiden-macintosh)
+ - [Jaiden Macintosh](artist/jaiden-macintosh)
 ## K
 
 ## L
