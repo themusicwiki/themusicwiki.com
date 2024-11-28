@@ -4,5 +4,5 @@ The Music Wiki is a wiki site that catalogs and documents all sorts of music, fr
 
 ## Categories
 This site is divided into different categories for easy navigation.
--- [Artists](artists)
--- [Labels](labels)
+  - [Artists](artists)
+  - [Labels](labels)
